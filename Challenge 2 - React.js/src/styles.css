@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list {
+  display: inline;
+  /* background-color: tomato; */
+  margin-bottom: 5rem;
+}
